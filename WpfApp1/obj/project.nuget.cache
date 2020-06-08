@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqESrQo6ZzFoNUkoUbEfjxDMPLILbR/vnlk5QvDkpI4sAeCgB5QeIiQFUbeie30euPkAYFioGtstnQ/VoDdpwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afterthinkaboutit\\Desktop\\WPF игра\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afterthinkaboutit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
